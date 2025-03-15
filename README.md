@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Adarsh!</h1>
 
 ###
@@ -11,6 +12,12 @@
 ###
 
 <p align="left">👨‍💻 Currently on to learn Python Framework Django.<br>👨‍💻 Exploring the Principles of Generative AI<br>📧 adarshsorout48@gmail.com<br>📞 +91 8685056062</p>
+
+###
+
+<a href="[https://linkedin.com/in/.](https://www.linkedin.com/in/adarsh-sorout/)" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep." height="40" width="50" style="vertical-align: super;" />
+</a>
 
 ###
 
@@ -70,8 +77,3 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="240_F_974308252_ZAhHZ8bQHyftaqMJNIliJiyZnyqHmu6j.jpg"  />
-</div>
-
-###
