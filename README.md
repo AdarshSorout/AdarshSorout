@@ -4,27 +4,36 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">
-    👨‍💻 Currently learning the Python Framework Django.<br>
-    👨‍💻 Exploring the Principles of Generative AI<br>
-    📧 adarshsorout48@gmail.com<br>
-    📞 +91 8685056062
-</p>
+<table>
+<tr>
+<td width="60%">
+    <p align="left">
+        👨‍💻 Currently learning the Python Framework Django.<br>
+        👨‍💻 Exploring the Principles of Generative AI.<br>
+        📧 adarshsorout48@gmail.com<br>
+        📞 +91 8685056062
+    </p>
+</td>
+<td width="40%">
+    <img src="image.png" width="100%" alt="Adarsh's Image">
+</td>
+</tr>
+</table>
 
 <h2 align="left">Connect with me</h2>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/adarsh-sorout/" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" style="vertical-align: super;" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
     </a>
     <a href="https://leetcode.com/u/Adarsh_Sorout/" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" style="vertical-align: super;" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" />
     </a>
     <a href="https://codeforces.com/profile/adarsh465" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="50" style="vertical-align: super;" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="50" />
     </a>
     <a href="https://www.youtube.com/@adarshsorout1432" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="50" style="vertical-align: super;" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="50" />
     </a>
 </p>
 
@@ -64,7 +73,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
 </p>
 
+<h2 align="left">GitHub Stats</h2>
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdarshSorout&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdarshSorout&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AdarshSorout&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdarshSorout&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
+</div>
+
+<h2 align="left">GitHub Trophies</h2>
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=AdarshSorout&theme=dracula&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
 </div>
