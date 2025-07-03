@@ -5,7 +5,7 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-    👨‍💻 Currently learning the Python Framework Django.<br>
+  
     👨‍💻 Exploring the Principles of Generative AI.<br>
     📧 adarshsorout48@gmail.com<br>
     📞 +91 8685056062
