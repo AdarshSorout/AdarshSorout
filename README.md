@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh!</h1>
 
-<p align="center">A passionate Programmer and Data Science Enthusiast.</p>
+<p align="center">A passionate Programmer and ML Engineering Enthusiast.</p>
 
 <h2 align="left">About me</h2>
 
