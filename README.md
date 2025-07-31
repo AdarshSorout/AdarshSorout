@@ -6,8 +6,8 @@
 
 <p align="left">
   
-    👨‍💻 Exploring the Principles of Generative AI.<br>
-    📧 adarshsorout48@gmail.com<br>
+    👨‍💻 Exploring the Principles of Generative AI.
+    📧 adarshsorout48@gmail.com
     📞 +91 8685056062
 </p>
 
